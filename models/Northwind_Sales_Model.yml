@@ -1,7 +1,6 @@
 unique_name: northwind_sales_model
 object_type: model
 label: Northwind Sales
-description: This model describes Northwind Sales Schema for business users.
 metrics: []
 relationships:
   - unique_name: orders_customerid_to_DimCustomers_customername
